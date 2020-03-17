@@ -1,0 +1,23 @@
+#footer {
+    width: 100%;
+    height: 120px;
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    background-position-y: 1185px;
+}
+
+.side-nav.wide.slim {
+    width: 3.75rem !important;
+  }
+
+  input#defaultForm-email {
+    margin-left: 70px;
+}
+
+.md-form .prefix {
+    position:relative !important;
+    width:50px;
+
+    left: 25vh;
+}
